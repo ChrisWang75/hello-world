@@ -1,7 +1,10 @@
-# hello-world
-the step by step to study to using the github
+# 学习如何使用github
 
-i am studing to using the github: 
+为什么要使用github，我的目的如下：
+- 有一个云，可以保存日常使用的一些文档
+- 能有版本记录，可以保存日常的更改；
+- 能发布blog，记录自己的日常的工作，找到同道的人
 
-I add a new branch and add some content in file.
+对第一个目的，微软收购github后，如何能将onedriver和github结合起来就好了。
+
 
